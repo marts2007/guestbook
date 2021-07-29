@@ -10,7 +10,7 @@ apiVersion: v1
 kind: Secret
 metadata:
   name: binding-tone
-  namespace: sn-labs-marts2007
+  namespace: sn-labs-dmaevskiy
 type: Opaque
 data:
   url: $B64_URL
